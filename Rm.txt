@@ -1,0 +1,43 @@
+Here's a clear, confident 2-3 minute viva presentation you can deliver:
+
+---
+
+## 🎤 Opening (20 sec)
+*"Good morning/afternoon, Sir/Ma'am. My paper is titled **'A Review on Federated Learning-Based Intrusion Detection Systems for IoT Networks'**, submitted to the Journal of Network and Computer Applications."*
+
+---
+
+## 🔍 Problem Statement (25 sec)
+*"IoT devices like smart sensors and appliances are highly vulnerable to cyberattacks such as DDoS and botnets. Traditional Intrusion Detection Systems rely on centralized machine learning, which raises serious concerns around **data privacy, scalability, and communication overhead**. So the core question is — how do we detect attacks without sharing sensitive raw data?"*
+
+---
+
+## 💡 Solution: Federated Learning (30 sec)
+*"The answer is **Federated Learning** — a decentralized approach where each IoT device trains the model **locally** and only shares model parameters, not raw data, with a central server. This preserves privacy while still allowing collaborative learning across devices."*
+
+---
+
+## 📄 What I Reviewed (40 sec)
+*"I reviewed **5 recent papers** from Q1/Q2 journals published between 2024–2026. These papers used deep learning models like CNN, DNN, Autoencoders, LSTM, and Deep Belief Networks within federated frameworks. Datasets used include **CICIoT2023, N-BaIoT, AWID, and Edge-IIoTset**. Aggregation algorithms like FedAvg, FedProx, and FedNova were compared."*
+
+---
+
+## 📊 Key Findings (25 sec)
+*"The results show that FL-based IDS models achieve **90–99% detection accuracy** while preserving privacy. For instance, FEDDBN-IDS achieved 99% accuracy and reduced communication overhead by 70%. The CNN+BiLSTM model by Albanbay et al. also reached ~99% accuracy on real hardware like Raspberry Pi."*
+
+---
+
+## ⚠️ Limitations & Future Scope (20 sec)
+*"However, challenges remain — particularly with **non-IID data**, where performance drops by up to 30% on unseen datasets. The system is also vulnerable to **model poisoning attacks**. Future work should focus on asynchronous federated learning, lightweight models, and adversarial robustness."*
+
+---
+
+## ✅ Closing (10 sec)
+*"In conclusion, Federated Learning is a promising and privacy-preserving solution for IoT security, but scalability and adversarial threats need further research before real-world deployment. Thank you."*
+
+---
+
+### 💡 Quick Tips for Viva
+- Speak slowly and confidently — don't rush
+- If asked about your **practical work**, mention: *"I also performed EDA on a CIC-based dataset and achieved 74% accuracy with a baseline model"*
+- Know these terms cold: **FedAvg, non-IID, IDS, FL aggregation**
